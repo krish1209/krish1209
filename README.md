@@ -15,7 +15,7 @@
 
 - 📫 How to reach me? **krish.bagga10@gmail.com**
 
-- ⚡ Fun fact **I Know I am Funny. I am inspiring and motivating and an excellent speaker.**
+- ⚡ Fun fact **I Know I am Funny. I am inspiring and motivating and an excellent speaker. I play Tabla :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
