@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, Python, Deep learning models, ML Algorithms, OS, DSA, Networks.**
 
-- 📫 How to reach me? **krish.bagga2020@vitstudent.ac.in**
+- 📫 How to reach me? **krish.bagga10@gmail.com**
 
 - ⚡ Fun fact **I Know I am Funny. I am inspiring and motivating and an excellent speaker.**
 
