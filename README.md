@@ -1,21 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Krish Bagga</h1>
-<h3 align="center">An emerging CS AI ML student</h3>
+<h3 align="center">A Graduate in CSE AI ML </h3>
 <img align= "right" alt = "Coding" width = "400" src ="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1209&label=Profile%20views&color=0e75b6&style=flat" alt="krish1209" /> </p>
 
 <p align="left"> <a href="https://twitter.com/krish6117" target="blank"><img src="https://img.shields.io/twitter/follow/krish6117?logo=twitter&style=for-the-badge" alt="krish6117" /></a> </p>
 
-- 🔭 I’m currently working on **A Three JS website**
+- 🔭 I’m currently Looking for a **Job in Tech**
 
 - 🌱 I’m currently learning **LLMs, ThreeJS, GANs**
 
-- 💬 Ask me about **C++, Python, Deep learning models, ML Algorithms, OS, DSA, Networks.**
+- 💬 Ask me about **C++, Python, Deep learning models, ML Algorithms, OS, DSA, Networks, Java, Data Engineering, Quant Finance**
 
 - 📫 How to reach me? **krish.bagga10@gmail.com**
-
-- ⚡ Fun fact **I Know I am Funny. I am inspiring and motivating and an excellent speaker. I play Tabla :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
