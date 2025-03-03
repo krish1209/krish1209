@@ -5,20 +5,20 @@
 <p align="left"> <a href="https://twitter.com/krish6117" target="blank"><img src="https://img.shields.io/twitter/follow/krish6117?logo=twitter&style=for-the-badge" alt="krish6117" /></a> </p>
 About Me
 
-🔭 I'm currently exploring Quantitative Trading Strategies and Advanced ML Models for Financial Markets
-🧠 Developing AI-powered risk assessment tools and market forecasting models
-🌱 Currently researching LLMs for financial text analysis, GANs for synthetic market data, and ThreeJS for financial visualizations
-💹 Specializing in algorithmic trading, derivatives pricing, and portfolio optimization using ML/AI
-🔥 Passionate about bridging engineering disciplines with quantitative finance
+🔭 I'm currently exploring Quantitative Trading Strategies and Advanced ML Models for Financial Markets.
+🧠 Developing AI-powered risk assessment tools and market forecasting models.
+🌱 Currently researching LLMs for financial text analysis, GANs for synthetic market data, and ThreeJS for financial visualizations.
+💹 Specializing in algorithmic trading, derivatives pricing, and portfolio optimization using ML/AI.
+🔥 Passionate about bridging engineering disciplines with quantitative finance.
 📫 Reach me at: krish.bagga10@gmail.com
 
 Technical Expertise
 
 Quantitative Finance: Risk modeling, derivatives pricing, time series analysis, stochastic calculus
-Machine Learning: Deep learning, reinforcement learning for trading, NLP for financial sentiment
-Programming: Python, C++, R, Julia for financial computation
+Machine Learning: Deep learning, reinforcement learning for trading, NLP for financial sentiment, Linear/logistic regression. 
+Programming: Python, C++, R, SQL, Java
 Data Engineering: Financial data pipelines, market data processing at scale
-Tools & Libraries: PyTorch, TensorFlow, pandas, numpy, scikit-learn, QuantLib
+Tools & Libraries: PyTorch, TensorFlow, pandas, numpy, scikit-learn, QuantLib, matplotlib,...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
